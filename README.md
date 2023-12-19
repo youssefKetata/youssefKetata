@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">A passionate frontend developer from Bosnia</h3>
 
-<iframe src="" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 
 <div class="tenor-gif-embed" data-postid="16760829579653810809" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/text-work-computer-working-penguin-gif-16760829579653810809">Text Work Sticker</a>from <a href="https://tenor.com/search/text-stickers">Text Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefketata&label=Profile%20views&color=0e75b6&style=flat" alt="youssefketata" /> </p>
 
