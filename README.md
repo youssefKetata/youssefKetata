@@ -3,7 +3,7 @@
 
 
 <div class="tenor-gif-embed" data-postid="6505495604908631093" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/work-internet-computer-working-penguin-gif-6505495604908631093">Work Internet GIF</a>from <a href="https://tenor.com/search/work-gifs">Work GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<img src="https://tenor.com/view/work-internet-computer-working-penguin-gif-6505495604908631093" alt"me">
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefketata&label=Profile%20views&color=0e75b6&style=flat" alt="youssefketata" /> </p>
