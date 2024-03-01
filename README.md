@@ -7,6 +7,9 @@
 
 - 📫 How to reach me **yusufketata5@gmail.com**
 
+- frontend mentor profile: **https://www.frontendmentor.io/profile/youssefKetata**
+- codepen profile: **https://codepen.io/youssef5**
+
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>-->
