@@ -39,3 +39,21 @@ I'm a frontend developer focused on building modern, performant web applications
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
+
+## Featured Project
+
+### [Slack Clone MERN App with CI/CD](https://github.com/youssefKetata/slack-cicd)
+
+A full-stack collaboration platform inspired by Slack & Discord, built with the MERN stack (MongoDB, Express, React/Next.js, Node.js).  
+This project demonstrates a complete CI/CD pipeline using Jenkins, Docker Compose & Swarm, and includes monitoring with Prometheus and Grafana.
+
+**Key Features:**
+
+- Multi-environment setup: development, staging, production
+- Automated CI/CD pipeline with Jenkins
+- Dockerized architecture, orchestrated with Docker Swarm
+- Application and infrastructure monitoring (Prometheus, Grafana)
+- Nginx reverse proxy for enhanced security and performance
+- Unit testing with Jest
+
+[See the repository for full details and setup instructions.](https://github.com/youssefKetata/slack-cicd)
