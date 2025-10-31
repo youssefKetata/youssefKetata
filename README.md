@@ -10,6 +10,7 @@ I'm a frontend developer focused on building modern, performant web applications
 - 📫 How to reach me: **yusufketata5@gmail.com**
 - [Frontend Mentor profile](https://www.frontendmentor.io/profile/youssefKetata)
 - [CodePen profile](https://codepen.io/youssef5)
+- [Leetcode profile](https://leetcode.com/u/yusufketata5/)
 
 ## Current Focus
 
